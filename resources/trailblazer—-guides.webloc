@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>https://pragprog.com/titles?f[sort_by]=pubdate&amp;f[category]=all&amp;f[skill_level]=All&amp;f[title_contains]=</string>
+	<string>http://trailblazer.to/guides/</string>
 </dict>
 </plist>

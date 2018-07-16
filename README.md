@@ -17,9 +17,9 @@ Solution Integrator Experienced - Certified by Ericsson
 ## Topics
 ```
 1. Introduction
-[ ] How To Read This Book
-[ ] The Missing Architecture
-[ ] Learnings About Reality
+[x] How To Read This Book
+[x] The Missing Architecture
+[x] Learnings About Reality
 2. The Trailblazer Architectural Style
 [ ] Why Trailblazer?
 [ ] A Non Intrusive Framework
